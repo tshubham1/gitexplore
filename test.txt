@@ -1,2 +1,4 @@
 hello
 My first commit in new footer branch
+
+Hey added some automation scripts for footer.
